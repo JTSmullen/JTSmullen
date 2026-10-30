@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio.joshsmullen.com"><img src="https://img.shields.io/badge/Explore_my_portfolio-6ee7b7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1220" alt="Explore my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/joshua-smullen/"><img src="https://img.shields.io/badge/LinkedIn-14283b?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/joshua-smullen-8a31832b3/"><img src="https://img.shields.io/badge/LinkedIn-14283b?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AutoSprings"><img src="https://img.shields.io/badge/AutoSprings-14283b?style=for-the-badge&amp;logo=github&amp;logoColor=6ee7b7" alt="AutoSprings open source" /></a>
 </p>
 
