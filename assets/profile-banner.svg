@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Joshua Smullen — Backend, Security, Applied AI</title>
+  <desc id="desc">A dark navy banner with mint and blue connected nodes, a terminal prompt, and Joshua Smullen's name.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#14283b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#67c7ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5d7ed" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="46" width="40" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="92" fill="#6ee7b7" font-family="Consolas,monospace" font-size="16" letter-spacing="2">&gt; hello, world</text>
+  <text x="46" y="159" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">Joshua Smullen</text>
+  <text x="50" y="205" fill="#b4c8db" font-family="Consolas,monospace" font-size="18" letter-spacing="2">BACKEND / SECURITY / APPLIED AI</text>
+  <text x="50" y="258" fill="#81a2bc" font-family="Segoe UI,Arial,sans-serif" font-size="16">Building useful systems. Making the complex feel simple.</text>
+  <g fill="none" stroke="#67c7ff" stroke-opacity=".25" stroke-width="1.5">
+    <path d="M842 78L950 50L1080 99L1138 209L1009 254L887 214Z M842 78L1009 254 M950 50L887 214 M1080 99L887 214 M1138 209L950 50"/>
+    <path d="M842 78L1138 209 M1080 99L1009 254"/>
+  </g>
+  <g fill="#0e2030" stroke="#6ee7b7" stroke-width="2">
+    <circle cx="842" cy="78" r="7"/><circle cx="950" cy="50" r="5"/><circle cx="1080" cy="99" r="8"/><circle cx="1138" cy="209" r="5"/><circle cx="1009" cy="254" r="7"/><circle cx="887" cy="214" r="5"/>
+  </g>
+  <circle cx="990" cy="150" r="36" fill="#102b3a" stroke="#67c7ff" stroke-opacity=".45"/>
+  <text x="990" y="158" text-anchor="middle" fill="#6ee7b7" font-family="Consolas,monospace" font-size="25">&lt;/&gt;</text>
+</svg>
